@@ -1,0 +1,5 @@
+﻿  TransformFeedbackDemo.cpp
+u:\personal\kelly\transformfeedbackdemo\transformfeedbackdemo.cpp(29): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+u:\personal\kelly\transformfeedbackdemo\transformfeedbackdemo.cpp(30): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+u:\personal\kelly\transformfeedbackdemo\transformfeedbackdemo.cpp(32): warning C4838: conversion from 'int' to 'GLuint' requires a narrowing conversion
+  TransformFeedbackDemo.vcxproj -> U:\personal\Kelly\TransformFeedbackDemo\Debug\TransformFeedbackDemo.exe
